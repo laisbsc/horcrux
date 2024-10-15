@@ -1,0 +1,14 @@
+{
+  "order": [
+    "pyladies_lunch_carol.jpg"
+  ],
+  "dict": {
+    "pyladies_lunch_carol.jpg": {
+      "type": "photo",
+      "width": 4500,
+      "height": 2994,
+      "path": "./photos/2024/EuroPython/PyLadies Day/pyladies_lunch_carol.jpg",
+      "min_path": "./photos/2024/EuroPython/PyLadies Day/pyladies_lunch_carol.min.jpg"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "order": [
+    "lais_1.png"
+  ],
+  "dict": {
+    "lais_1.png": {
+      "type": "photo",
+      "width": 701,
+      "height": 951,
+      "path": "./photos/2024/PyCon DE/April/lais_1.png",
+      "min_path": "./photos/2024/PyCon DE/April/lais_1.min.png"
+    }
+  }
+}

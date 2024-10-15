@@ -5,42 +5,88 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2024",
+      "2023"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2024": {
+        "name": "2024",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2024"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "PyCon DE",
+            "EuroPython"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "PyCon DE": {
+              "name": "PyCon DE",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "2024",
+                "PyCon DE"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
-              "no_sub_album": true
+              "items": {
+                "order": [
+                  "April"
+                ],
+                "dict": {
+                  "April": {
+                    "name": "April",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "PyCon DE",
+                      "April"
+                    ],
+                    "path": "./_data/albums/2024-PyCon DE-April.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "EuroPython": {
+              "name": "EuroPython",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "EuroPython"
+              ],
+              "items": {
+                "order": [
+                  "PyLadies Day"
+                ],
+                "dict": {
+                  "PyLadies Day": {
+                    "name": "PyLadies Day",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "EuroPython",
+                      "PyLadies Day"
+                    ],
+                    "path": "./_data/albums/2024-EuroPython-PyLadies Day.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
             }
           }
         }
       },
-      "2019": {
-        "name": "2019",
+      "2023": {
+        "name": "2023",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "2023"
         ],
         "items": {
           "order": [
@@ -52,7 +98,7 @@
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
+                "2023",
                 "August"
               ],
               "items": {
@@ -65,11 +111,11 @@
                     "type": "album",
                     "root": 3,
                     "parents": [
-                      "2019",
+                      "2023",
                       "August",
                       "Street"
                     ],
-                    "path": "./_data/albums/2019-August-Street.json",
+                    "path": "./_data/albums/2023-August-Street.json",
                     "no_sub_album": true
                   }
                 }

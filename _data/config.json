@@ -1,9 +1,45 @@
 [
   {
+    "name": "April",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "PyCon DE",
+      "April"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 701,
+        "height": 951,
+        "path": "./photos/2024/PyCon DE/April/lais_1.png",
+        "min_path": "./photos/2024/PyCon DE/April/lais_1.min.png"
+      }
+    ]
+  },
+  {
+    "name": "PyLadies Day",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "EuroPython",
+      "PyLadies Day"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4500,
+        "height": 2994,
+        "path": "./photos/2024/EuroPython/PyLadies Day/pyladies_lunch_carol.jpg",
+        "min_path": "./photos/2024/EuroPython/PyLadies Day/pyladies_lunch_carol.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "Street",
     "type": "photos",
     "parents": [
-      "2019",
+      "2023",
       "August",
       "Street"
     ],
@@ -12,95 +48,43 @@
         "type": "photo",
         "width": 850,
         "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "path": "./photos/2023/August/Street/12.jpg",
+        "min_path": "./photos/2023/August/Street/12.min.jpg"
       },
       {
         "type": "photo",
         "width": 850,
         "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
+        "path": "./photos/2023/August/Street/10.jpg",
+        "min_path": "./photos/2023/August/Street/10.min.jpg"
       },
       {
         "type": "photo",
         "width": 3393,
         "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
+        "path": "./photos/2023/August/Street/08.jpg",
+        "min_path": "./photos/2023/August/Street/08.min.jpg"
       },
       {
         "type": "photo",
         "width": 850,
         "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
+        "path": "./photos/2023/August/Street/07.jpg",
+        "min_path": "./photos/2023/August/Street/07.min.jpg"
       },
       {
         "type": "photo",
         "width": 850,
         "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
+        "path": "./photos/2023/August/Street/05.jpg",
+        "min_path": "./photos/2023/August/Street/05.min.jpg"
       },
       {
         "type": "photo",
         "width": 850,
         "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Hokkaido December",
-    "type": "photos",
-    "parents": [
-      "2018",
-      "Hokkaido December"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "path": "./photos/2023/August/Street/04.jpg",
+        "min_path": "./photos/2023/August/Street/04.min.jpg"
       }
     ]
   }
