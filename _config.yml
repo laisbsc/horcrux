@@ -1,4 +1,9 @@
-name: Horcrux
+name: laiscarvalho
+#baseurl: "/"
+url: "/gallery"
+
+#name: Laís
+instagram: laiscarvalho
 
 frame_padding: 10px
 
@@ -29,8 +34,7 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: 
-
 sass:
   sass_dir: _sass
   style: compressed
+
