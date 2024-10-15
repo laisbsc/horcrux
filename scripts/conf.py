@@ -71,7 +71,7 @@ def write_json(path, data):
 
 with open(CONF_YAML_PATH, 'r') as config:
     site_conf = yaml.load(config, Loader=yaml.FullLoader)
-    copyright = '@' + site_conf['name']
+    copyright = '@' + site_conf['instagram']
     
     process = site_conf['process']
     if process:
