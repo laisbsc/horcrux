@@ -1,19 +1,32 @@
 [
   {
-    "name": "April",
+    "name": "EuroPython",
     "type": "photos",
     "parents": [
       "2024",
-      "PyCon DE",
-      "April"
+      "EuroPython"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 701,
-        "height": 951,
-        "path": "./photos/2024/PyCon DE/April/lais_1.png",
-        "min_path": "./photos/2024/PyCon DE/April/lais_1.min.png"
+        "width": 4500,
+        "height": 2994,
+        "path": "./photos/2024/EuroPython/closing_lais.jpg",
+        "min_path": "./photos/2024/EuroPython/closing_lais.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4500,
+        "height": 2994,
+        "path": "./photos/2024/EuroPython/closing_all.jpg",
+        "min_path": "./photos/2024/EuroPython/closing_all.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4500,
+        "height": 2994,
+        "path": "./photos/2024/EuroPython/black_py_devs.jpg",
+        "min_path": "./photos/2024/EuroPython/black_py_devs.min.jpg"
       }
     ]
   },
@@ -36,55 +49,110 @@
     ]
   },
   {
-    "name": "Street",
+    "name": "April",
     "type": "photos",
     "parents": [
-      "2023",
-      "August",
-      "Street"
+      "2024",
+      "PyCon DE",
+      "April"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2023/August/Street/12.jpg",
-        "min_path": "./photos/2023/August/Street/12.min.jpg"
+        "width": 701,
+        "height": 951,
+        "path": "./photos/2024/PyCon DE/April/lais_1.png",
+        "min_path": "./photos/2024/PyCon DE/April/lais_1.min.png"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2023/August/Street/10.jpg",
-        "min_path": "./photos/2023/August/Street/10.min.jpg"
+        "width": 599,
+        "height": 813,
+        "path": "./photos/2024/PyCon DE/April/lais_1.min.png",
+        "min_path": "./photos/2024/PyCon DE/April/lais_1.min.min.png"
       },
       {
         "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2023/August/Street/08.jpg",
-        "min_path": "./photos/2023/August/Street/08.min.jpg"
+        "width": 1920,
+        "height": 1281,
+        "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.jpg",
+        "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2023/August/Street/07.jpg",
-        "min_path": "./photos/2023/August/Street/07.min.jpg"
+        "width": 1920,
+        "height": 1281,
+        "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.jpg",
+        "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2023/August/Street/05.jpg",
-        "min_path": "./photos/2023/August/Street/05.min.jpg"
+        "width": 1080,
+        "height": 720,
+        "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1626.jpg",
+        "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1626.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "November",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "EuroPython",
+      "November"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos/2023/EuroPython/November/Failte_Ireland_award.jpg",
+        "min_path": "./photos/2023/EuroPython/November/Failte_Ireland_award.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "July",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "EuroPython",
+      "July"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2023/EuroPython/July/opening_lais.jpg",
+        "min_path": "./photos/2023/EuroPython/July/opening_lais.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "HumbleData",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "EuroPython",
+      "July",
+      "HumbleData"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 5357,
+        "height": 3571,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_mentoring_EP23.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_mentoring_EP23.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2023/August/Street/04.jpg",
-        "min_path": "./photos/2023/August/Street/04.min.jpg"
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.min.jpg"
       }
     ]
   }

@@ -9,6 +9,88 @@
       "2023"
     ],
     "dict": {
+      "2023": {
+        "name": "2023",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2023"
+        ],
+        "items": {
+          "order": [
+            "EuroPython"
+          ],
+          "dict": {
+            "EuroPython": {
+              "name": "EuroPython",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "EuroPython"
+              ],
+              "items": {
+                "order": [
+                  "November",
+                  "July"
+                ],
+                "dict": {
+                  "November": {
+                    "name": "November",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "EuroPython",
+                      "November"
+                    ],
+                    "path": "./_data/albums/2023-EuroPython-November.json",
+                    "no_sub_album": true
+                  },
+                  "July": {
+                    "name": "July",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "EuroPython",
+                      "July"
+                    ],
+                    "items": {
+                      "order": [
+                        "opening_lais.jpg",
+                        "HumbleData"
+                      ],
+                      "dict": {
+                        "opening_lais.jpg": {
+                          "type": "photo",
+                          "width": 6000,
+                          "height": 4000,
+                          "path": "./photos/2023/EuroPython/July/opening_lais.jpg",
+                          "min_path": "./photos/2023/EuroPython/July/opening_lais.min.jpg"
+                        },
+                        "HumbleData": {
+                          "name": "HumbleData",
+                          "type": "album",
+                          "root": 4,
+                          "parents": [
+                            "2023",
+                            "EuroPython",
+                            "July",
+                            "HumbleData"
+                          ],
+                          "path": "./_data/albums/2023-EuroPython-July-HumbleData.json",
+                          "no_sub_album": true
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
       "2024": {
         "name": "2024",
         "type": "album",
@@ -18,10 +100,62 @@
         ],
         "items": {
           "order": [
-            "PyCon DE",
-            "EuroPython"
+            "EuroPython",
+            "PyCon DE"
           ],
           "dict": {
+            "EuroPython": {
+              "name": "EuroPython",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "EuroPython"
+              ],
+              "items": {
+                "order": [
+                  "closing_lais.jpg",
+                  "closing_all.jpg",
+                  "black_py_devs.jpg",
+                  "PyLadies Day"
+                ],
+                "dict": {
+                  "closing_lais.jpg": {
+                    "type": "photo",
+                    "width": 4500,
+                    "height": 2994,
+                    "path": "./photos/2024/EuroPython/closing_lais.jpg",
+                    "min_path": "./photos/2024/EuroPython/closing_lais.min.jpg"
+                  },
+                  "closing_all.jpg": {
+                    "type": "photo",
+                    "width": 4500,
+                    "height": 2994,
+                    "path": "./photos/2024/EuroPython/closing_all.jpg",
+                    "min_path": "./photos/2024/EuroPython/closing_all.min.jpg"
+                  },
+                  "black_py_devs.jpg": {
+                    "type": "photo",
+                    "width": 4500,
+                    "height": 2994,
+                    "path": "./photos/2024/EuroPython/black_py_devs.jpg",
+                    "min_path": "./photos/2024/EuroPython/black_py_devs.min.jpg"
+                  },
+                  "PyLadies Day": {
+                    "name": "PyLadies Day",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "EuroPython",
+                      "PyLadies Day"
+                    ],
+                    "path": "./_data/albums/2024-EuroPython-PyLadies Day.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "PyCon DE": {
               "name": "PyCon DE",
               "type": "album",
@@ -45,77 +179,6 @@
                       "April"
                     ],
                     "path": "./_data/albums/2024-PyCon DE-April.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            },
-            "EuroPython": {
-              "name": "EuroPython",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "EuroPython"
-              ],
-              "items": {
-                "order": [
-                  "PyLadies Day"
-                ],
-                "dict": {
-                  "PyLadies Day": {
-                    "name": "PyLadies Day",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2024",
-                      "EuroPython",
-                      "PyLadies Day"
-                    ],
-                    "path": "./_data/albums/2024-EuroPython-PyLadies Day.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "2023": {
-        "name": "2023",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "2023"
-        ],
-        "items": {
-          "order": [
-            "August"
-          ],
-          "dict": {
-            "August": {
-              "name": "August",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2023",
-                "August"
-              ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2023",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2023-August-Street.json",
                     "no_sub_album": true
                   }
                 }

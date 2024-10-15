@@ -1,6 +1,10 @@
 {
   "order": [
-    "lais_1.png"
+    "lais_1.png",
+    "lais_1.min.png",
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1964.jpg",
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1956.jpg",
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1626.jpg"
   ],
   "dict": {
     "lais_1.png": {
@@ -9,6 +13,34 @@
       "height": 951,
       "path": "./photos/2024/PyCon DE/April/lais_1.png",
       "min_path": "./photos/2024/PyCon DE/April/lais_1.min.png"
+    },
+    "lais_1.min.png": {
+      "type": "photo",
+      "width": 599,
+      "height": 813,
+      "path": "./photos/2024/PyCon DE/April/lais_1.min.png",
+      "min_path": "./photos/2024/PyCon DE/April/lais_1.min.min.png"
+    },
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1964.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1281,
+      "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.jpg",
+      "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.min.jpg"
+    },
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1956.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1281,
+      "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.jpg",
+      "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.min.jpg"
+    },
+    "PyConDe @ Berlin 23.04.2024 @vollvincent-1626.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 720,
+      "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1626.jpg",
+      "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1626.min.jpg"
     }
   }
 }
