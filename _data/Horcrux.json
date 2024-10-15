@@ -18,9 +18,38 @@
         ],
         "items": {
           "order": [
+            "Woman In Tech Award - Ireland",
             "EuroPython"
           ],
           "dict": {
+            "Woman In Tech Award - Ireland": {
+              "name": "Woman In Tech Award - Ireland",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "Woman In Tech Award - Ireland"
+              ],
+              "items": {
+                "order": [
+                  "October"
+                ],
+                "dict": {
+                  "October": {
+                    "name": "October",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "Woman In Tech Award - Ireland",
+                      "October"
+                    ],
+                    "path": "./_data/albums/2023-Woman In Tech Award - Ireland-October.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "EuroPython": {
               "name": "EuroPython",
               "type": "album",
@@ -31,21 +60,39 @@
               ],
               "items": {
                 "order": [
-                  "November",
+                  "Failt\u00e9 Ireland Award",
                   "July"
                 ],
                 "dict": {
-                  "November": {
-                    "name": "November",
+                  "Failt\u00e9 Ireland Award": {
+                    "name": "Failt\u00e9 Ireland Award",
                     "type": "album",
                     "root": 3,
                     "parents": [
                       "2023",
                       "EuroPython",
-                      "November"
+                      "Failt\u00e9 Ireland Award"
                     ],
-                    "path": "./_data/albums/2023-EuroPython-November.json",
-                    "no_sub_album": true
+                    "items": {
+                      "order": [
+                        "November"
+                      ],
+                      "dict": {
+                        "November": {
+                          "name": "November",
+                          "type": "album",
+                          "root": 4,
+                          "parents": [
+                            "2023",
+                            "EuroPython",
+                            "Failt\u00e9 Ireland Award",
+                            "November"
+                          ],
+                          "path": "./_data/albums/2023-EuroPython-Failt\u00e9 Ireland Award-November.json",
+                          "no_sub_album": true
+                        }
+                      }
+                    }
                   },
                   "July": {
                     "name": "July",

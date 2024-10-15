@@ -75,13 +75,6 @@
         "type": "photo",
         "width": 1920,
         "height": 1281,
-        "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.jpg",
-        "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1964.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 1281,
         "path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.jpg",
         "min_path": "./photos/2024/PyCon DE/April/PyConDe @ Berlin 23.04.2024 @vollvincent-1956.min.jpg"
       },
@@ -95,11 +88,24 @@
     ]
   },
   {
+    "name": "October",
+    "type": "album",
+    "root": 3,
+    "parents": [
+      "2023",
+      "Woman In Tech Award - Ireland",
+      "October"
+    ],
+    "path": "./_data/albums/2023-Woman In Tech Award - Ireland-October.json",
+    "no_sub_album": true
+  },
+  {
     "name": "November",
     "type": "photos",
     "parents": [
       "2023",
       "EuroPython",
+      "Failt\u00e9 Ireland Award",
       "November"
     ],
     "list": [
@@ -107,8 +113,8 @@
         "type": "photo",
         "width": 2560,
         "height": 1707,
-        "path": "./photos/2023/EuroPython/November/Failte_Ireland_award.jpg",
-        "min_path": "./photos/2023/EuroPython/November/Failte_Ireland_award.min.jpg"
+        "path": "./photos/2023/EuroPython/Failt\u00e9 Ireland Award/November/Failte_Ireland_award.jpg",
+        "min_path": "./photos/2023/EuroPython/Failt\u00e9 Ireland Award/November/Failte_Ireland_award.min.jpg"
       }
     ]
   },
@@ -153,6 +159,34 @@
         "height": 4000,
         "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.jpg",
         "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 7008,
+        "height": 4672,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_pylady.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_pylady.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6762,
+        "height": 4508,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_mentoring.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_mentoring.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_and_i.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_and_i.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 7008,
+        "height": 4672,
+        "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_crew.jpg",
+        "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_crew.min.jpg"
       }
     ]
   }

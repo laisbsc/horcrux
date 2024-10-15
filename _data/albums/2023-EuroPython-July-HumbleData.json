@@ -1,0 +1,54 @@
+{
+  "order": [
+    "humbledata_mentoring_EP23.jpg",
+    "humbledata_lais_and_martin_borus.jpg",
+    "humbledata_jodie_pylady.jpg",
+    "humbledata_jodie_mentoring.jpg",
+    "humbledata_jodie_and_i.jpg",
+    "humbledata_crew.jpg"
+  ],
+  "dict": {
+    "humbledata_mentoring_EP23.jpg": {
+      "type": "photo",
+      "width": 5357,
+      "height": 3571,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_mentoring_EP23.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_mentoring_EP23.min.jpg"
+    },
+    "humbledata_lais_and_martin_borus.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_lais_and_martin_borus.min.jpg"
+    },
+    "humbledata_jodie_pylady.jpg": {
+      "type": "photo",
+      "width": 7008,
+      "height": 4672,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_pylady.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_pylady.min.jpg"
+    },
+    "humbledata_jodie_mentoring.jpg": {
+      "type": "photo",
+      "width": 6762,
+      "height": 4508,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_mentoring.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_mentoring.min.jpg"
+    },
+    "humbledata_jodie_and_i.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_and_i.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_jodie_and_i.min.jpg"
+    },
+    "humbledata_crew.jpg": {
+      "type": "photo",
+      "width": 7008,
+      "height": 4672,
+      "path": "./photos/2023/EuroPython/July/HumbleData/humbledata_crew.jpg",
+      "min_path": "./photos/2023/EuroPython/July/HumbleData/humbledata_crew.min.jpg"
+    }
+  }
+}

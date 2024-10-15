@@ -1,0 +1,14 @@
+{
+  "order": [
+    "Failte_Ireland_award.jpg"
+  ],
+  "dict": {
+    "Failte_Ireland_award.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos/2023/EuroPython/November/Failte_Ireland_award.jpg",
+      "min_path": "./photos/2023/EuroPython/November/Failte_Ireland_award.min.jpg"
+    }
+  }
+}
