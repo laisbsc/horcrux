@@ -1,5 +1,4 @@
 import conf
-import os
 from PIL import Image, ImageDraw, ImageFont
 
 
@@ -8,7 +7,7 @@ class Photo():
         self.path = path
         self.min_path = ''
         self.pil_image = Image.open(self.path).convert('RGBA')
-        self.witdh, self.height = self.pil_image.size
+        self.width, self.height = self.pil_image.size
         self.size = self.pil_image.size
 
         min_file = self.path.stem + '.min' + self.path.suffix
